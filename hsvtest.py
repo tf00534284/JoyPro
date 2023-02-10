@@ -40,4 +40,4 @@ while True:
     cv2.imshow("mask",mask)
     cv2.imshow("result",result)
     if cv2.waitKey(1) == ord("q"):
-        break
+        
